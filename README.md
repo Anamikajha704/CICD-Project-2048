@@ -31,7 +31,7 @@ We'll go through the following steps in the next few lessons.
 <img width="1357" height="540" alt="image" src="https://github.com/user-attachments/assets/e83df0dc-4cbf-443f-a9c3-a8e5c70ce94a" />
 
 ### Final Result
-This is what our project will look like, once built:
+This is what my project will look like, once built:
 <img width="1832" height="1012" alt="image" src="https://github.com/user-attachments/assets/6c9ea41e-18e3-4fc6-8b2a-3599645461f3" />
 
 ### Pre-requisites:
