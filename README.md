@@ -1,4 +1,4 @@
-# Build a CI/CD Pipeline for the 2048 Game using AWS CodePipeline, ECS, and ECR
+# CI/CD Pipeline for the 2048 Game using AWS CodePipeline, ECS, and ECR
 
 ### Overview of Project ☁️
 This project focuses on setting up a CI/CD pipeline for deploying a Dockerized version of the 2048 game to AWS. The pipeline automates the process of building, testing, and deploying the game to a scalable infrastructure using Amazon ECS, Amazon ECR, and AWS CodePipeline.
